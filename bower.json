@@ -1,0 +1,25 @@
+{
+  "name": "angular-ui-tooltip-dynamic",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Arun <mywebcompanion@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.5.0",
+    "angular-ui-router": "~0.2.18",
+    "ui-bootstrap": "~1.1.2",
+    "angular-bootstrap": "~1.1.2"
+  }
+}
